@@ -3,8 +3,6 @@ name: Go
 on:
   push:
     branches: [ Aula_3 ]
-  pull_request:
-    branches: [ Aula_3 ]
 
 jobs:
 
